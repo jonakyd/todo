@@ -1,0 +1,21 @@
+/* Base Application Styles */
+body {
+  color: #fff;
+  background: #222;
+}
+
+#input:disabled {
+  background-color: yellow !important;
+}
+
+.list {
+  float: left;
+}
+
+.list .create {
+  margin: 5px;
+}
+
+.detail {
+  overflow: hidden;
+}
